@@ -68,3 +68,8 @@ a {
 .active{
   font-weight: 700;
 }
+
+.parent-active{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: chartreuse;
+}
